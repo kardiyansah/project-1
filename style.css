@@ -155,7 +155,7 @@ body {
 }
 
 .menu-toggle input:checked ~ span:first-of-type {
-    transform: rotate(45deg) translate(-2px, -1px);
+    transform: rotate(45deg) translate(-1px, -1px);
     background-color: red;
 }
 
